@@ -1,2 +1,3 @@
-a=10
-print(a)
+a="A B C D "
+for i in range(4):
+    print(a)
